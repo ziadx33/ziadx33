@@ -22,5 +22,5 @@
 - :technologist: I love using `Next.js` & `Typescript`.
 - :student: I’m currently learning `Front-end Development`.
 - :nerd_face: Always `learning new things`.
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :boom: You can visit [MY WEBSITE](https//ziad-hatem.vercel.app).
 - :fire: available to `hire`
