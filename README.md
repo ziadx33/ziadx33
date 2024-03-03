@@ -1,14 +1,10 @@
 <h1 align="center">Hi , I'm Ziadx3 </h1>
 
-
-
-
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=thegreatagen1&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 </p>
 
-<br>
-	
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
