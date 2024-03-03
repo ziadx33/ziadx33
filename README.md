@@ -1,13 +1,13 @@
-<h1 align="center">Hi , I'm TheGreatagen </h1>
+<h1 align="center">Hi , I'm Ziadx3 </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Front+End+Developer+@thegreatagen1;Neovim+user;Competitive+Programmer;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Front+End+Developer+@ziadx33;Neovim+user;Competitive+Programmer;Always+learning+new+things"></a>
 </p>
 
 
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=thegreatagen1&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=ziadx33&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 </p>
 
 	
