@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Ziadx3 </h1>
+<h1 align="center">Hi , I'm Ziad Hatem </h1>
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=thegreatagen1&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
