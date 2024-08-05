@@ -1,20 +1,40 @@
-<h1 align="center">Hi , I'm Ziad Hatem </h1>
+# 👋 Hi there! I'm Ziad Hatem
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=thegreatagen1&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
-</p>
+Welcome to my GitHub profile! I’m a passionate web developer with over 2 years of experience in front-end technologies. I specialize in creating dynamic, responsive, and user-friendly web applications using cutting-edge tools and technologies.
 
+## 🚀 About Me
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+I’m dedicated to transforming ideas into digital realities. My expertise lies in crafting seamless user experiences and high-performance web applications. I thrive on tackling complex challenges and delivering elegant solutions.
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+## 🛠 Skills
 
-<br><br>
+- **Languages:** TypeScript, JavaScript
+- **Frameworks/Libraries:** React.js, Next.js
+- **Backend:** Node.js, Prisma
+- **Tools:** Git, Webpack, Babel
+- **Design:** HTML5, CSS3, SASS, Tailwind CSS
 
-- :school: 2 years of experience
-- 🏆 worked in 2 `companies`
-- :technologist: I love using `Next.js` & `Typescript`.
-- :student: I’m currently learning `Front-end Development`.
-- :nerd_face: Always `learning new things`.
-- :boom: You can visit <a href="https://ziad-hatem.vercel.app" target="_blank">MY WEBSITE</a>.
-- :fire: available to `hire`
+## 🌟 Projects
+
+### Currently Working On
+
+- **[Spotify Clone](#):** *In Progress* – A clone of Spotify with a focus on creating a seamless music streaming experience.
+
+### Recent Projects
+
+- **[Duolingo Clone](https://duolingo-clone-ziad.vercel.app):** *Completed* – A language learning platform inspired by Duolingo, featuring interactive lessons and quizzes.
+- **[Shooting Game](https://shooting-game-zeta.vercel.app):** *Completed* – An engaging shooting game with real-time gameplay and interactive elements.
+
+Feel free to check out my repositories for more details on these and other projects.
+
+## 🔗 Connect with Me
+
+- **GitHub:** [github.com/ziadx33](https://github.com/ziadx33)
+- **Portfolio:** [ziadx3.vercel.app](https://ziadx3.vercel.app)
+- **Twitter:** [@ziadx333](https://x.com/ziadx333)
+
+I’m always open to new opportunities, collaborations, and discussions about web development. Let’s build something amazing together!
+
+## 📫 How to Reach Me
+
+You can reach me via email at [hatemziad384@gmail.com](mailto:hatemziad384@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/your-linkedin).
