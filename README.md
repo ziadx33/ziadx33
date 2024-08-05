@@ -1,10 +1,6 @@
-# 👋 Hi there! I'm Ziad Hatem
+# 👋 Hi, I'm Ziad Hatem
 
-Welcome to my GitHub profile! I’m a passionate web developer with over 2 years of experience in front-end technologies. I specialize in creating dynamic, responsive, and user-friendly web applications using cutting-edge tools and technologies.
-
-## 🚀 About Me
-
-I’m dedicated to transforming ideas into digital realities. My expertise lies in crafting seamless user experiences and high-performance web applications. I thrive on tackling complex challenges and delivering elegant solutions.
+Passionate web developer with 2+ years in front-end technologies. I build dynamic, responsive web apps with the latest tools.
 
 ## 🛠 Skills
 
@@ -13,30 +9,35 @@ I’m dedicated to transforming ideas into digital realities. My expertise lies 
 - **Backend:** Node.js, Prisma
 - **Tools:** Git, Webpack, Babel
 - **Design:** HTML5, CSS3, SASS, Tailwind CSS
+- **State Management:** Redux
+- **APIs:** tRPC
 
 ## 🌟 Projects
 
 ### Currently Working On
 
-- **[Spotify Clone](#):** *In Progress* – A clone of Spotify with a focus on creating a seamless music streaming experience.
+- **[Spotify Clone](#)**  
+  *Status:* In Progress  
+  A music streaming app with Next.js, TypeScript, React, Prisma, Tailwind CSS, and Redux.
 
 ### Recent Projects
 
-- **[Duolingo Clone](https://duolingo-clone-ziad.vercel.app):** *Completed* – A language learning platform inspired by Duolingo, featuring interactive lessons and quizzes.
-- **[Shooting Game](https://shooting-game-zeta.vercel.app):** *Completed* – An engaging shooting game with real-time gameplay and interactive elements.
+- **[Duolingo Clone](https://duolingo-clone-ziad.vercel.app)**  
+  *Status:* Completed  
+  A language learning platform with Next.js, TypeScript, React, Prisma, Tailwind CSS, and tRPC.
 
-Feel free to check out my repositories for more details on these and other projects.
+- **[Shooting Game](https://shooting-game-zeta.vercel.app)**  
+  *Status:* Completed  
+  A shooting game using TypeScript.
 
-## 🔗 Connect with Me
+## 🔗 Connect
 
 - **GitHub:** [github.com/ziadx33](https://github.com/ziadx33)
 - **Portfolio:** [ziadx3.vercel.app](https://ziadx3.vercel.app)
 - **Twitter:** [@ziadx333](https://x.com/ziadx333)
 - **Discord:** [Ziad#1234](https://discord.com/users/1191481986032861287)
 
-I’m always open to new opportunities, collaborations, and discussions about web development. Let’s build something amazing together!
-
-## 📫 How to Reach Me
+## 📫 Contact
 
 - **Email:** [hatemziad384@gmail.com](mailto:hatemziad384@gmail.com)
 - **Phone:** +20 111 735 1878 (Egypt)
