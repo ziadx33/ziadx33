@@ -32,9 +32,11 @@ Feel free to check out my repositories for more details on these and other proje
 - **GitHub:** [github.com/ziadx33](https://github.com/ziadx33)
 - **Portfolio:** [ziadx3.vercel.app](https://ziadx3.vercel.app)
 - **Twitter:** [@ziadx333](https://x.com/ziadx333)
+- **Discord:** [Ziad#1234](https://discord.com/users/1191481986032861287)
 
 I’m always open to new opportunities, collaborations, and discussions about web development. Let’s build something amazing together!
 
 ## 📫 How to Reach Me
 
-You can reach me via email at [hatemziad384@gmail.com](mailto:hatemziad384@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/your-linkedin).
+- **Email:** [hatemziad384@gmail.com](mailto:hatemziad384@gmail.com)
+- **Phone:** +20 111 735 1878 (Egypt)
