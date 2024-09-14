@@ -35,7 +35,7 @@ Passionate web developer with 2+ years in front-end technologies. I build dynami
 - **GitHub:** [github.com/ziadx33](https://github.com/ziadx33)
 - **Portfolio:** [ziadx3.vercel.app](https://ziadx3.vercel.app)
 - **Twitter:** [@ziadx333](https://x.com/ziadx333)
-- **Discord:** [Ziad#1234](https://discord.com/users/1191481986032861287)
+- **Discord:** [Ziad Hatem](https://discord.com/users/1191481986032861287)
 
 ## 📫 Contact
 
