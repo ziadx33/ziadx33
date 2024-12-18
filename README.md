@@ -40,4 +40,4 @@ Passionate web developer with 2+ years in front-end technologies. I build dynami
 ## 📫 Contact
 
 - **Email:** [hatemziad384@gmail.com](mailto:hatemziad384@gmail.com)
-- **Phone:** +20 111 735 1878 (Egypt)
+- **Phone:** +20 111 735 1878 (recommended)
