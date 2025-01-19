@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ziad Hatem
 
 Passionate web developer with 2+ years in front-end technologies. I build dynamic, responsive web apps with the latest tools.
-
+ 
 ## 🛠 Skills
 
 - **Languages:** TypeScript, JavaScript
