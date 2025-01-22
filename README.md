@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ziad Hatem
 
 Passionate web developer with 2+ years in front-end technologies. I build dynamic, responsive web apps with the latest tools.
- 
+
 ## 🛠 Skills
 
 - **Languages:** TypeScript, JavaScript
@@ -17,17 +17,17 @@ Passionate web developer with 2+ years in front-end technologies. I build dynami
 ### Currently Working On
 
 - **[Spotify Clone](#)**  
-  *Status:* In Progress  
+  _Status:_ In Progress  
   A music streaming app with Next.js, TypeScript, React, Prisma, Tailwind CSS, and Redux.
 
 ### Recent Projects
 
 - **[Duolingo Clone](https://duolingo-clone-ziad.vercel.app)**  
-  *Status:* Completed  
+  _Status:_ Completed  
   A language learning platform with Next.js, TypeScript, React, Prisma, Tailwind CSS, and tRPC.
 
 - **[Shooting Game](https://shooting-game-zeta.vercel.app)**  
-  *Status:* Completed  
+  _Status:_ Completed  
   A shooting game using TypeScript.
 
 ## 🔗 Connect
