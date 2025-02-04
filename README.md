@@ -11,7 +11,7 @@ Passionate web developer with 2+ years in front-end technologies. I build dynami
 - **Design:** HTML5, CSS3, SASS, Tailwind CSS
 - **State Management:** Redux, Zustand
 - **APIs:** tRPC
-
+ 
 ## 🌟 Projects
 
 ### Currently Working On
