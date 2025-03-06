@@ -17,7 +17,7 @@ Passionate web developer with 2+ years in front-end technologies. I build dynami
 ### Currently Working On
 
 - **[Spotify Clone](#)**  
-  _Status:_ In Progress  
+  _Status:_ Completed 
   A music streaming app with Next.js, TypeScript, React, Prisma, Tailwind CSS, and Redux.
 
 ### Recent Projects
