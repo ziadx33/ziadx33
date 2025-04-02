@@ -18,7 +18,7 @@ Passionate web developer with 2+ years in front-end technologies. I build dynami
 
 - **[Learny](#)**  
   _Status:_ In Progress <br />
-  A Learning Management System (LMS) built with Next.js, TypeScript, React, Prisma, Tailwind CSS, and Redux.
+  A Learning Management System (LMS) built with Next.js, TypeScript, React, Prisma, Tailwind CSS, Redux, and tRPC.
 
 ### Recent Projects
 
