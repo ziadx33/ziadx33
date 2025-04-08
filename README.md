@@ -6,7 +6,7 @@ Passionate web developer with 2+ years in front-end technologies. I build dynami
 
 - **Languages:** TypeScript, JavaScript
 - **Frameworks/Libraries:** React.js, Next.js
-- **Backend:** Node.js, Prisma
+- **Backend:** Node.js, Express, Prisma, Socket.IO
 - **Tools:** Git, Webpack, Vite
 - **Design:** HTML5, CSS3, SASS, Tailwind CSS
 - **State Management:** Redux, Zustand
