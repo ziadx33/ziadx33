@@ -16,15 +16,11 @@ Passionate web developer with 3+ years in front-end technologies. I build dynami
 
 ### Currently Working On
 
-- **[Learny](#)**  
-  _Status:_ In Progress <br />
-  A Learning Management System (LMS) built with Next.js, TypeScript, React, Prisma, Tailwind CSS, Redux, and tRPC.
+- **[Spotiq](https://spotiq.vercel.app)**  
+  _Status:_ Completed (working on some improvements) <br />
+  A music streaming app with Next.js, TypeScript, React, Prisma, Tailwind CSS, and Redux.
 
 ### Recent Projects
-
-- **[Spotiq](https://spotiq.vercel.app)**  
-  _Status:_ Completed <br />
-  A music streaming app with Next.js, TypeScript, React, Prisma, Tailwind CSS, and Redux.
 
 - **[Duolingo Clone](https://duolingo-clone-ziad.vercel.app)**  
   _Status:_ Completed  
