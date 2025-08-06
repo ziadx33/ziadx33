@@ -22,7 +22,7 @@ Passionate web developer with 3+ years in front-end technologies. I build dynami
 
 ### Recent Projects
 
-- **[Spotify Clone](https://spotify-clone-redesigned.vercel.app)**  
+- **[Spotiq](https://spotiq.vercel.app)**  
   _Status:_ Completed <br />
   A music streaming app with Next.js, TypeScript, React, Prisma, Tailwind CSS, and Redux.
 
